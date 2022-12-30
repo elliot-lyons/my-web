@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-web/static/css/main.aa794aca.css",
+    "main.js": "/my-web/static/js/main.197cfad9.js",
+    "static/media/CS1013-DemoForBestProject-19.mp4": "/my-web/static/media/CS1013-DemoForBestProject-19.55e0b88e49602c5c9343.mp4",
+    "static/media/Video Presentation.mp4": "/my-web/static/media/Video Presentation.02624da0c69127e2b15d.mp4",
+    "static/media/COVID Project.zip": "/my-web/static/media/COVID Project.5873826dba4861f4fe05.zip",
+    "static/media/PDF Kerry Group Report.pdf": "/my-web/static/media/PDF Kerry Group Report.674d38ece2f94f9ba93d.pdf",
+    "static/media/port3.jpg": "/my-web/static/media/port3.077cd6efff6bbd699ea8.jpg",
+    "static/media/CSU 33031 ASSIGNMENT 2 REPORT PDF.pdf": "/my-web/static/media/CSU 33031 ASSIGNMENT 2 REPORT PDF.beb8d1dce339c8aaf920.pdf",
+    "static/media/better.png": "/my-web/static/media/better.674d121c79ea06016042.png",
+    "static/media/other-me.jpg": "/my-web/static/media/other-me.203a268c82a36f39576a.jpg",
+    "static/media/port4.jpg": "/my-web/static/media/port4.f6ec58beb7f7f0d9d723.jpg",
+    "static/media/Marketing.pdf": "/my-web/static/media/Marketing.9c1d9a2c6352690f409b.pdf",
+    "static/media/Sem2 Essay PDF.pdf": "/my-web/static/media/Sem2 Essay PDF.a53caf71c74f8c276397.pdf",
+    "static/media/port6.jpg": "/my-web/static/media/port6.5d96c38066dfcfb369c8.jpg",
+    "static/media/port2.jpg": "/my-web/static/media/port2.30add53a558f3d327641.jpg",
+    "static/media/cv.pdf": "/my-web/static/media/cv.3e6dd17c62d5f9cbe3ed.pdf",
+    "static/media/port5.jpg": "/my-web/static/media/port5.1aa8229cc3240f6b760a.jpg",
+    "static/media/port8.jpg": "/my-web/static/media/port8.cd5441c366ea73a7ad99.jpg",
+    "static/media/port1.jpg": "/my-web/static/media/port1.b39807c0380151d88bcb.jpg",
+    "static/media/port7.jpg": "/my-web/static/media/port7.bf961b93facb9b2bcfaa.jpg",
+    "index.html": "/my-web/index.html",
+    "main.aa794aca.css.map": "/my-web/static/css/main.aa794aca.css.map",
+    "main.197cfad9.js.map": "/my-web/static/js/main.197cfad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa794aca.css",
+    "static/js/main.197cfad9.js"
+  ]
+}
