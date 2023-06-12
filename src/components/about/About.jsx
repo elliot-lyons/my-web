@@ -32,7 +32,7 @@ const About = () => {
           </div>
 
           <p>
-            Currently a 3rd year Computer Science Major and Business Student in Trinity College Dublin. I love music, football, 
+            Incoming 4th year Computer Science Major and Business Student in Trinity College Dublin. Currently based in an internship role in KPMG. I love music, football, 
             motorsport and hockey. Please see more about my achievments and hobbies in my CV and don't be afraid to reach out below!
           </p>
 

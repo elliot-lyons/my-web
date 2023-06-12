@@ -16,7 +16,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Managed a group of fellow students to release a GitHub insight website</p>
+              <p>Managed various software engineering teams in a project based setting (both in an academic and professional setting)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
