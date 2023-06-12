@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-web/static/css/main.d17e7a03.css",
-    "main.js": "/my-web/static/js/main.7afa1eda.js",
+    "main.js": "/my-web/static/js/main.461c414e.js",
     "static/media/CS1013-DemoForBestProject-19.mp4": "/my-web/static/media/CS1013-DemoForBestProject-19.55e0b88e49602c5c9343.mp4",
     "static/media/Video Presentation.mp4": "/my-web/static/media/Video Presentation.02624da0c69127e2b15d.mp4",
     "static/media/COVID Project.zip": "/my-web/static/media/COVID Project.5873826dba4861f4fe05.zip",
@@ -15,17 +15,17 @@
     "static/media/Sem2 Essay PDF.pdf": "/my-web/static/media/Sem2 Essay PDF.a53caf71c74f8c276397.pdf",
     "static/media/port6.jpg": "/my-web/static/media/port6.5d96c38066dfcfb369c8.jpg",
     "static/media/port2.jpg": "/my-web/static/media/port2.30add53a558f3d327641.jpg",
-    "static/media/cv.pdf": "/my-web/static/media/cv.40276bd26ac72321b76c.pdf",
+    "static/media/cv.pdf": "/my-web/static/media/cv.fdba41b25a28d8b05491.pdf",
     "static/media/port5.jpg": "/my-web/static/media/port5.1aa8229cc3240f6b760a.jpg",
     "static/media/port8.jpg": "/my-web/static/media/port8.cd5441c366ea73a7ad99.jpg",
     "static/media/port1.jpg": "/my-web/static/media/port1.b39807c0380151d88bcb.jpg",
     "static/media/port7.jpg": "/my-web/static/media/port7.bf961b93facb9b2bcfaa.jpg",
     "index.html": "/my-web/index.html",
     "main.d17e7a03.css.map": "/my-web/static/css/main.d17e7a03.css.map",
-    "main.7afa1eda.js.map": "/my-web/static/js/main.7afa1eda.js.map"
+    "main.461c414e.js.map": "/my-web/static/js/main.461c414e.js.map"
   },
   "entrypoints": [
     "static/css/main.d17e7a03.css",
-    "static/js/main.7afa1eda.js"
+    "static/js/main.461c414e.js"
   ]
 }
