@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-web/static/css/main.d17e7a03.css",
-    "main.js": "/my-web/static/js/main.3305bfdc.js",
+    "main.js": "/my-web/static/js/main.b21db489.js",
     "static/media/gs vid.mp4": "/my-web/static/media/gs vid.65ccd2e1b4e20a483007.mp4",
     "static/media/CS1013-DemoForBestProject-19.mp4": "/my-web/static/media/CS1013-DemoForBestProject-19.55e0b88e49602c5c9343.mp4",
     "static/media/Video Presentation.mp4": "/my-web/static/media/Video Presentation.02624da0c69127e2b15d.mp4",
@@ -22,7 +22,7 @@
     "static/media/Sem2 Essay PDF.pdf": "/my-web/static/media/Sem2 Essay PDF.a53caf71c74f8c276397.pdf",
     "static/media/port6.jpg": "/my-web/static/media/port6.5d96c38066dfcfb369c8.jpg",
     "static/media/port2.jpg": "/my-web/static/media/port2.30add53a558f3d327641.jpg",
-    "static/media/Lyons, Elliot CV 2024.pdf": "/my-web/static/media/Lyons, Elliot CV 2024.27ffc60b103cd4b0b568.pdf",
+    "static/media/Lyons, Elliot CV 2024.pdf": "/my-web/static/media/Lyons, Elliot CV 2024.109012707481878e98dd.pdf",
     "static/media/gsimg.pdf": "/my-web/static/media/gsimg.59f55f47b7332a162d84.pdf",
     "static/media/port5.jpg": "/my-web/static/media/port5.1aa8229cc3240f6b760a.jpg",
     "static/media/gs.jpg": "/my-web/static/media/gs.9af1f4129d0f74c61e42.jpg",
@@ -33,10 +33,10 @@
     "static/media/port21.jpg": "/my-web/static/media/port21.63e4f72c650628cfa17e.jpg",
     "index.html": "/my-web/index.html",
     "main.d17e7a03.css.map": "/my-web/static/css/main.d17e7a03.css.map",
-    "main.3305bfdc.js.map": "/my-web/static/js/main.3305bfdc.js.map"
+    "main.b21db489.js.map": "/my-web/static/js/main.b21db489.js.map"
   },
   "entrypoints": [
     "static/css/main.d17e7a03.css",
-    "static/js/main.3305bfdc.js"
+    "static/js/main.b21db489.js"
   ]
 }
