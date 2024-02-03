@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/my-web/static/css/main.d17e7a03.css",
-    "main.js": "/my-web/static/js/main.4516db54.js",
+    "main.js": "/my-web/static/js/main.7326c0a7.js",
     "static/media/gs vid.mp4": "/my-web/static/media/gs vid.65ccd2e1b4e20a483007.mp4",
     "static/media/CS1013-DemoForBestProject-19.mp4": "/my-web/static/media/CS1013-DemoForBestProject-19.55e0b88e49602c5c9343.mp4",
     "static/media/Video Presentation.mp4": "/my-web/static/media/Video Presentation.02624da0c69127e2b15d.mp4",
     "static/media/COVID Project.zip": "/my-web/static/media/COVID Project.5873826dba4861f4fe05.zip",
     "static/media/PDF Kerry Group Report.pdf": "/my-web/static/media/PDF Kerry Group Report.674d38ece2f94f9ba93d.pdf",
     "static/media/lein.jpg": "/my-web/static/media/lein.fcd5702897889c4758af.jpg",
+    "static/media/HF Prototyping.pdf": "/my-web/static/media/HF Prototyping.d332170faa6ba38fff2d.pdf",
     "static/media/Hooligans.pdf": "/my-web/static/media/Hooligans.83850f89a259cc7a09dc.pdf",
     "static/media/port3.jpg": "/my-web/static/media/port3.077cd6efff6bbd699ea8.jpg",
+    "static/media/eco.jpg": "/my-web/static/media/eco.57355767d4d74d8c2fa5.jpg",
     "static/media/CSU 33031 ASSIGNMENT 2 REPORT PDF.pdf": "/my-web/static/media/CSU 33031 ASSIGNMENT 2 REPORT PDF.beb8d1dce339c8aaf920.pdf",
     "static/media/me.png": "/my-web/static/media/me.ca4b73273443d01b7e0e.png",
     "static/media/other-me.jpg": "/my-web/static/media/other-me.203a268c82a36f39576a.jpg",
     "static/media/port4.jpg": "/my-web/static/media/port4.f6ec58beb7f7f0d9d723.jpg",
+    "static/media/Marketing Essay.pdf": "/my-web/static/media/Marketing Essay.ea260ee2f5cbbcdcf808.pdf",
     "static/media/dance.pdf": "/my-web/static/media/dance.2735367a0e1d10c8f472.pdf",
     "static/media/Marketing.pdf": "/my-web/static/media/Marketing.9c1d9a2c6352690f409b.pdf",
     "static/media/Sem2 Essay PDF.pdf": "/my-web/static/media/Sem2 Essay PDF.a53caf71c74f8c276397.pdf",
@@ -24,15 +27,16 @@
     "static/media/port5.jpg": "/my-web/static/media/port5.1aa8229cc3240f6b760a.jpg",
     "static/media/gs.jpg": "/my-web/static/media/gs.9af1f4129d0f74c61e42.jpg",
     "static/media/port8.jpg": "/my-web/static/media/port8.cd5441c366ea73a7ad99.jpg",
+    "static/media/handshake.jpg": "/my-web/static/media/handshake.ecd1d0a2ee55b23d8087.jpg",
     "static/media/port1.jpg": "/my-web/static/media/port1.b39807c0380151d88bcb.jpg",
     "static/media/port7.jpg": "/my-web/static/media/port7.bf961b93facb9b2bcfaa.jpg",
     "static/media/port21.jpg": "/my-web/static/media/port21.63e4f72c650628cfa17e.jpg",
     "index.html": "/my-web/index.html",
     "main.d17e7a03.css.map": "/my-web/static/css/main.d17e7a03.css.map",
-    "main.4516db54.js.map": "/my-web/static/js/main.4516db54.js.map"
+    "main.7326c0a7.js.map": "/my-web/static/js/main.7326c0a7.js.map"
   },
   "entrypoints": [
     "static/css/main.d17e7a03.css",
-    "static/js/main.4516db54.js"
+    "static/js/main.7326c0a7.js"
   ]
 }
